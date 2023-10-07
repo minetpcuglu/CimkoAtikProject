@@ -385,3 +385,4 @@ FodyWeavers.xsd
 /CimkoAtikTakipProject/DataAccessLayer/obj/
 /CimkoAtikTakipProject/EntitiesLayer/obj/
 /CimkoAtikTakipProject/EntitiesLayer/bin/
+/CimkoAtikTakipProject/CimkoAtikTakipProjectUI/obj/Debug/net6.0/project.razor.vs.json
